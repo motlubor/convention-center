@@ -1,21 +1,45 @@
+/* use google fonts in main body  */
+body{
+    font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* to control carousel image width  */
 .width img{
     width: 1044px;
     height: 584px;
 }
+
+/* to use display none for bulletspoint  */
 ul{
     list-style-type: none;
     padding-left: 0;
 }
+
+/* to use custom button color in cards */
 .button-color{
    background-color:  #facfea;
 }
+/* use custom background-color in card no 3  */
 .back-color{
     background-color: #3F87F5;
 }
+/* to customize all cards buttons text color  */
 .font-color{
     color: #3F87F5;
     font-weight: 400;
 }
+/* to fix footer section image width in control  */
 .fix-image img{
     width:150px;
+}
+
+/* minimize image width in photo gallery section  */
+.image-size img{
+    width:250px;
+}
+
+.backgrnd-color{
+    background-color: beige;
 }
