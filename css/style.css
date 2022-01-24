@@ -16,3 +16,6 @@ ul{
     color: #3F87F5;
     font-weight: 400;
 }
+.fix-image img{
+    width:150px;
+}
